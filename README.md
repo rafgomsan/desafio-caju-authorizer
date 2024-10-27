@@ -22,7 +22,7 @@ $ make up
 ## Migration
 
 ```bash
-# shutdown db and application
+# apply migration to db
 $ make migration
 ```
 
